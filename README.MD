@@ -1,6 +1,6 @@
 # Stock Price Prediction model
 
-- Created for the practical marks fullfilment for my the subject **Foundation of Data Science**, This Python based project uses multitude of libraries and various **Concepts** like **Data cleaning, EDA, Feature Engineering and Modelling** which were studied in the subject.
+- Created for the practical marks fullfilment for my third sem course of **Foundation of Data Science**, This Python based project uses multitude of libraries and various **Concepts** like **Data cleaning, EDA, Feature Engineering and Modelling** which were studied in the course to build a predictive model that predicts the stock price of tesla.
 
 - The libraries used in this project are:
   | SN|Library |
@@ -11,7 +11,7 @@
   |4.|Matplotlib|
   |5.|Scikit-learn|
 
-- By Leveraging the linear regression model provided by `scikit-learn` , this project predicts the stock prices of **Tesla** using the [Tesla.csv_dataset](./tesla.csv)
+- By Leveraging the linear regression model provided by `scikit-learn` , this project predicts the stock prices using the [Tesla.csv_dataset](./tesla.csv)
 
 - This model's accuracy was accessed based on the following metrics: <br>
   |Metric | Train | Test|
